@@ -1,0 +1,22 @@
+Layer 40, EMA(decay=0.99999)
+Token Selections: 73600
+Router Entropy (avg): nan bits
+Top-k Confidence (avg): nan
+Load-Balance CV: 0.9954
+
+Expert 0: EMA=0.05%  Hits=9179
+Expert 1: EMA=0.05%  Hits=9179
+Expert 2: EMA=0.05%  Hits=9179
+Expert 3: EMA=0.05%  Hits=9179
+Expert 4: EMA=0.05%  Hits=9179
+Expert 5: EMA=0.05%  Hits=9179
+Expert 6: EMA=0.05%  Hits=9179
+Expert 7: EMA=0.05%  Hits=9179
+Expert 26: EMA=0.00%  Hits=21
+Expert 34: EMA=0.00%  Hits=21
+Expert 46: EMA=0.00%  Hits=21
+Expert 66: EMA=0.00%  Hits=21
+Expert 71: EMA=0.00%  Hits=21
+Expert 72: EMA=0.00%  Hits=21
+Expert 91: EMA=0.00%  Hits=21
+Expert 99: EMA=0.00%  Hits=21

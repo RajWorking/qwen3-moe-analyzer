@@ -1,5 +1,6 @@
-vllm
-mlx-core
-mlx-lm
+torch
+transformers
+accelerate
 tabulate
 numpy
+datasets
